@@ -159,7 +159,7 @@ a {
 
 .hero-photo {
   z-index: -3;
-  background-image: url("assets/aba-group.jpg");
+  background-image: url("aba-group.jpg");
   background-position: center 45%;
   background-size: cover;
   transform: scale(1.025);
